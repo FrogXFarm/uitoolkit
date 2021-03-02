@@ -2001,7 +2001,7 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8b3d4f8904794f684a34e0ca962a7aa0aa89d57f",
+                href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x3473aa96347713a9f377b5a5d4edcb29d4896394",
             },
             {
                 label: "Liquidity",

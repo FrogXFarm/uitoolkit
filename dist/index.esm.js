@@ -1988,7 +1988,7 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.pancakeswap.finance",
+                href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x3473aa96347713a9f377b5a5d4edcb29d4896394",
             },
             {
                 label: "Liquidity",
@@ -2077,16 +2077,16 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "https://github.com/FrogXFarm/",
             },
-            {
-                label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
-            },
-            {
-                label: "Blog",
-                href: "https://goosefinance.medium.com/",
-            },
+            // {
+            //     label: "Docs",
+            //     href: "https://goosedefi.gitbook.io/goose-finance/",
+            // },
+            // {
+            //     label: "Blog",
+            //     href: "https://goosefinance.medium.com/",
+            // },
         ],
     },
 ];
@@ -2097,7 +2097,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/FrogXFarm",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2141,7 +2141,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/FrogXFarmAnn",
+                href: "https://t.me/frogx_ann",
             },
         ],
     },
