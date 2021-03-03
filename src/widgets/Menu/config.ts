@@ -99,16 +99,16 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/FrogXFarm/",
       },
-      {
-        label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
-      },
-      {
-        label: "Blog",
-        href: "https://goosefinance.medium.com/",
-      },
+      // {
+      //   label: "Docs",
+      //   href: "https://goosedefi.gitbook.io/goose-finance/",
+      // },
+      // {
+      //   label: "Blog",
+      //   href: "https://goosefinance.medium.com/",
+      // },
     ],
   },
 ];
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/FrogXFarm",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/FrogXFarmAnn",
+        href: "https://t.me/frogx_ann",
       },
       // {
       //   label: "Whale Alert",
